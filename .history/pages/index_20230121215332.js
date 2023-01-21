@@ -42,8 +42,8 @@ export default function Index() {
           alignItems="flex-start"
           maxWidth="700px"
         >
-          <Heading mb={2}>Hi, I am Restu Fauzi</Heading>
-          <Text color={colorSecondary[colo amode]}>
+          <Heading mb={2}>Hi, I'm Restu Fauzi</Heading>
+          <Text color={colorSecondary[colorMode]}>
             A self-taught junior Front-End developer & QA Engineer. Currently
             working as QA especially Quality Assurance Automation Engineer who
             has responsibility to provide test script for running testing such
