@@ -42,7 +42,7 @@ export default function Index() {
           alignItems="flex-start"
           maxWidth="700px"
         >
-          <Heading mb={2}>Hi, Aku Restu Fauzi</Heading>
+          <Heading mb={2}>Hi, Saya Restu Fauzi</Heading>
           <Text color={colorSecondary[colorMode]}>
             A self-taught junior Front-End developer & QA Engineer. Currently
             working as QA especially Quality Assurance Automation Engineer who
