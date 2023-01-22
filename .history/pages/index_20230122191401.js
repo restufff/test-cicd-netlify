@@ -43,7 +43,7 @@ export default function Index() {
           maxWidth="700px"
         >
           <Heading mb={2}>Restu Fauzi</Heading>
-          <Text color={colorSecondary[colorMode]}>AKU</Text>
+          <Text color={colorSecondary[colorMode]}>HEHE</Text>
         </Flex>
       </Stack>
     </Container>
