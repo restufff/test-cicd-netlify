@@ -55,13 +55,7 @@ export default function About() {
         >
           <Heading mb={3}>About Me</Heading>
           <Text color={colorSecondary[colorMode]}>
-            A self taught who trying to focusing the front-end journey, hoping
-            someday will be mastering all the front-end skills. Currently
-            working as QA especially Quality Assurance Automation Engineer who
-            has responsibility to provide test script for running testing such
-            smoke testing, regression testing, sanity testing, functional
-            testing In many platforms example; Mobile Apps, Web Apps, and
-            Restful API using Katalon Studio, Cypress, and Selenium Web Driver.
+            SAYA LORT
           </Text>
         </Flex>
         <Flex
